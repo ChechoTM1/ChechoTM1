@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChechoTM1
-- 👀 I’m an programming student interested in all kinds of laguanges
+- 👀 I’m a programming student interested in all kinds of languages
 - 🌱 I’m currently learning pseudocode
 
 <!---
